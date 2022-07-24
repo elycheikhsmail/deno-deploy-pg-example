@@ -1,0 +1,4 @@
+ load env var OK
+ connect to db OK
+ create table OK
+ read table content OK  
